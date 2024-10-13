@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-babare-49bb24298?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bghqms2v2tmkqjqogbi6ssa%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-babare-49bb24298?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bghqms2v2tmkqjqogbi6ssa%3d%3d" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/happy_dog_89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="happy_dog_89" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/willgaxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="willgaxxx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aryanx16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryanx16" height="30" width="40" /></a>
