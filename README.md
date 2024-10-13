@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h1 align="center"><b>Hi 👋, I'm Aryan</b></h1>
+<h2 align="center">A Passionate Full Stack Developer from India</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryanx16&label=Profile%20views&color=0e75b6&style=flat" alt="aryanx16" />
@@ -88,7 +88,7 @@
 
 ---
 
-<h3 align="left">🚀 Connect with me:</h3>
+<h3 align="left">🚀 Competitive Programming :</h3>
 <p align="left">
   <a href="https://www.codechef.com/users/happy_dog_89" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
