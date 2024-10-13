@@ -123,8 +123,4 @@
 
 ---
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanx16&theme=onedark&margin-w=15&margin-h=15" alt="trophies" />
-</p>
