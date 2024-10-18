@@ -105,7 +105,7 @@
 
 ---
 
-<h3 align="left"><img align="center" src = "https://cdn.dribbble.com/users/304485/screenshots/3301972/media/d82e503513ffaed91794ad86c01cd38d.gif" width = "70"/> GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanx16&show_icons=true&locale=en" alt="aryanx16" />
