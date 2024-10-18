@@ -1,3 +1,5 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 <h1 align="center"><b>Hi 👋, I'm Aryan</b></h1>
 <h2 align="center">A Passionate Full Stack Developer from India</h2>
 
@@ -10,7 +12,7 @@
 
 ---
 
-<h3 align="left">💻 Languages:</h3>
+<h3 align="left"><img align="center" src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="38"/> Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
@@ -37,7 +39,7 @@
 
 ---
 
-<h3 align="left">🛠️<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/> Tools and Technologies:</h3>
+<h3 align="left"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"/> Tools and Technologies:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
@@ -88,7 +90,7 @@
 
 ---
 
-<h3 align="left">🚀 Competitive Programming :</h3>
+<h3 align="left"><img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="33"/> Competitive Programming :</h3>
 <p align="left">
   <a href="https://www.codechef.com/users/happy_dog_89" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
@@ -103,7 +105,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left"><img align="center" src = "https://cdn.dribbble.com/users/304485/screenshots/3301972/media/d82e503513ffaed91794ad86c01cd38d.gif" width = "70"/> GitHub Stats:</h3>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanx16&show_icons=true&locale=en" alt="aryanx16" />
@@ -118,4 +120,3 @@
 </p>
 
 ---
-
